@@ -16,8 +16,3 @@ Python · PyTorch · TensorFlow · LangChain · Claude API · SQL · FastAPI · 
 📧 yahya.amri.data.science@gmail.com
 💼 [Upwork](https://www.upwork.com/freelancers/yahyaamri)
 🔗 [LinkedIn](https://linkedin.com/in/yahya-amri-data-science)
-
----
-
-*"And that the human being attains only what he strives for."*
-*— The Holy Quran, An-Najm 53:39*
